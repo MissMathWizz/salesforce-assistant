@@ -1,7 +1,7 @@
 # 📊 Salesforce Earnings Call Assistant
 
 An AI-powered assistant that helps analysts **quickly understand** Salesforce's quarterly earnings reports.  
-The system uses ** Multimodal Retrieval-Augmented Generation (MRAG)** to answer questions, summarize key insights, and highlight strategic trends — based on actual earnings presentation transcripts.
+The system uses **Multimodal Retrieval-Augmented Generation (MRAG)** to answer questions, summarize key insights, and highlight strategic trends — based on actual earnings presentation transcripts.
 
 ---
 
