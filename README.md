@@ -16,6 +16,14 @@ The system uses **Retrieval-Augmented Generation (RAG)** to answer questions, su
 
 ---
 
+## Architecture Diagram
+![image](https://github.com/user-attachments/assets/300b49b6-dae8-4181-a7d8-b454d34bc716)
+
+## Front end visual
+![Screenshot 2025-04-13 at 10 58 52 p m](https://github.com/user-attachments/assets/b3947a34-eba8-4204-b317-da016573143a)
+
+
+
 ## 📁 Project Structure
 
 ```bash
@@ -26,10 +34,4 @@ The system uses **Retrieval-Augmented Generation (RAG)** to answer questions, su
 │   └── earnings_pdfs/         # Raw earnings transcripts (PDF format)
 ├── Data_process.ipynb         # Extracts real report name + date, embeds text and images
 ├── README.md                  # You're here!
-
-## Architecture Diagram
-![image](https://github.com/user-attachments/assets/300b49b6-dae8-4181-a7d8-b454d34bc716)
-
-## Front end visual
-![Screenshot 2025-04-13 at 10 58 52 p m](https://github.com/user-attachments/assets/b3947a34-eba8-4204-b317-da016573143a)
 
